@@ -9,3 +9,10 @@ Any info about starter code (If used, where it came from, link, etc.), and the
 Date.
 
 """
+
+username = {'guest': 'guest',
+            'Green0':'Red0',
+            'Chesse': 'Burger2',
+            'mpalmer33': 'login65'
+            }
+
