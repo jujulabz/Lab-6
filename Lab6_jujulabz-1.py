@@ -18,3 +18,8 @@ user = {'guest': 'guest',
 
 username = input(f'Enter Username: ')
 
+if username not in user:
+    print('User not found')
+else:
+    password = input(f'Enter Password: ')
+    
