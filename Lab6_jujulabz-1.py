@@ -23,3 +23,12 @@ if username not in user:
 else:
     password = input(f'Enter Password: ')
     
+    if password != user[username]:
+        print('\nAccess Denied.')
+    
+    else:
+        if username == "guest":
+            print(f"\nWelcome, {username}. You have Guest access.")
+        else:
+            print(f"\nWelcome, {username}. You have Security Level 1.")
+       
