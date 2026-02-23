@@ -10,9 +10,11 @@ Date.
 
 """
 
-username = {'guest': 'guest',
+user = {'guest': 'guest',
             'Green0':'Red0',
             'Chesse': 'Burger2',
             'mpalmer33': 'login65'
             }
+
+username = input(f'Enter Username: ')
 
