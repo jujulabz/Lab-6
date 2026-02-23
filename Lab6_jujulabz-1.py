@@ -5,8 +5,10 @@ Melissa Palmer,
 The program t simulates a user login
 system using a dictionary to store usernames
 and passwords.,
-Any info about starter code (If used, where it came from, link, etc.), and the
-Date.
+I used the textbook chapter 5 for the if staetments as well as Chapter 6 from our textbook for libaires
+and i used https://www.geeksforgeeks.org/python/nested-if-statement-in-python/ for the if statement as well.
+
+2/22/26
 
 """
 #dictonary of users and passwords
